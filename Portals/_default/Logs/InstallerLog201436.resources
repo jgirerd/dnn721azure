@@ -1,0 +1,271 @@
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Vérification de création de dossier
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Vérification de création de fichier
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Vérification de suppression de fichier
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Vérification de suppression de dossier
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Vérification de la configuration IIS
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation du script de base de donnéesDotNetNuke.Schema
+03/06/2014 16:53:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+03/06/2014 16:53:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+03/06/2014 16:53:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation du script de base de donnéesDotNetNuke.Data
+03/06/2014 16:53:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+03/06/2014 16:54:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+03/06/2014 16:54:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation des scripts de base de données liés au "Membership"
+03/06/2014 16:54:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallMemberRoleProvider
+03/06/2014 16:54:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End InstallMemberRoleProvider
+03/06/2014 16:54:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.01
+03/06/2014 16:54:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/06/2014 16:54:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.01.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.02
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.02.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.03
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/06/2014 16:54:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/06/2014 16:54:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/06/2014 16:54:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.03.SqlDataProvider
+03/06/2014 16:54:14 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.04
+03/06/2014 16:54:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/06/2014 16:54:14 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/06/2014 16:54:16 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/06/2014 16:54:16 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.04.SqlDataProvider
+03/06/2014 16:54:16 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.05
+03/06/2014 16:54:16 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/06/2014 16:54:16 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.05.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.00.06
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.00.06.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.01.00
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/06/2014 16:54:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/06/2014 16:54:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/06/2014 16:54:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.00.SqlDataProvider
+03/06/2014 16:54:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.01.01
+03/06/2014 16:54:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/06/2014 16:54:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.01.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.01.02
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.01.02.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.02.00
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/06/2014 16:54:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/06/2014 16:54:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/06/2014 16:54:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.00.SqlDataProvider
+03/06/2014 16:54:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Traitement des scripts de mise à jour07.02.01
+03/06/2014 16:54:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/06/2014 16:54:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\home\site\wwwroot\Providers\DataProviders\SqlDataProvider\07.02.01.SqlDataProvider
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.1
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.1
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.2
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.2
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.3
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.3
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.4
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.4
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.5
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.5
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.0.6
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.0.6
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.1.0
+03/06/2014 16:54:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.0
+03/06/2014 16:54:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPages:Search Admin
+03/06/2014 16:54:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.1.1
+03/06/2014 16:54:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.1
+03/06/2014 16:54:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.1.2
+03/06/2014 16:54:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.1.2
+03/06/2014 16:54:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.2.0
+03/06/2014 16:54:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.2.0
+03/06/2014 16:54:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleDefinition:Module Creator
+03/06/2014 16:54:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleControl:112
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application vers7.2.1
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 7.2.1
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.1
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.01
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.1
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.1
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.01
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.2
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.02
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.2
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.2
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.02
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.3
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.03
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.3
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.3
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.03
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.4
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.04
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.4
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.4
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.04
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.5
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.05
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.5
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.5
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.05
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.0.6
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.00.06
+03/06/2014 16:54:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.0.6
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=requestPathInvalidCharacters
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.0.6
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.00.06
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.1.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.1.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.1.2
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.01.02
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.1.2
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=defaultFileProcessingProvider
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.1.2
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.01.02
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.2.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.02.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.02.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de configuration pour7.2.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:07.02.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:07.02.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.2
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.02
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.3
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.03
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.4
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.04
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.5
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.05
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.0.6
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.00.06
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.1.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.1.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.1.2
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.01.02
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.2.0
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.02.00
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Suppression des anciens fichiers pour7.2.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:07.02.01
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Mise à jour de l'application
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:7.2.1
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=requestValidationMode
+03/06/2014 16:54:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:7.2.1
+03/06/2014 16:54:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DDRMenu_02.00.03_Install.zip
+03/06/2014 16:54:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DDRMenu_02.00.03_Install.zip
+03/06/2014 16:54:41 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:41 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_CoreMessaging_07.02.01_Install.zip
+03/06/2014 16:54:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_CoreMessaging_07.02.01_Install.zip
+03/06/2014 16:54:42 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_DigitalAssetsManagement_07.02.01_Install.zip
+03/06/2014 16:54:42 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_DigitalAssetsManagement_07.02.01_Install.zip
+03/06/2014 16:54:44 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_HTML_07.02.01_Install.zip
+03/06/2014 16:54:44 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_HTML_07.02.01_Install.zip
+03/06/2014 16:54:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_Journal_07.02.01_Install.zip
+03/06/2014 16:54:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_Journal_07.02.01_Install.zip
+03/06/2014 16:54:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_MemberDirectory_07.02.01_Install.zip
+03/06/2014 16:54:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_MemberDirectory_07.02.01_Install.zip
+03/06/2014 16:54:48 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_MobileManagement_07.02.01_Install.zip
+03/06/2014 16:54:48 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_MobileManagement_07.02.01_Install.zip
+03/06/2014 16:54:49 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_PreviewProfileManagement_07.02.01_Install.zip
+03/06/2014 16:54:49 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_PreviewProfileManagement_07.02.01_Install.zip
+03/06/2014 16:54:49 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+03/06/2014 16:54:50 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_RazorHost_07.02.01_Install.zip
+03/06/2014 16:54:50 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_RazorHost_07.02.01_Install.zip
+03/06/2014 16:54:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_SocialGroups_07.02.01_Install.zip
+03/06/2014 16:54:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_SocialGroups_07.02.01_Install.zip
+03/06/2014 16:54:52 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Module - DNNCE_Taxonomy_07.02.01_Install.zip
+03/06/2014 16:54:52 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_Taxonomy_07.02.01_Install.zip
+03/06/2014 16:54:53 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Library - DNNCE_UrlManagement_07.02.01_Install.zip
+03/06/2014 16:54:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\DNNCE_UrlManagement_07.02.01_Install.zip
+03/06/2014 16:54:53 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Library - Telerik_07.02.00_Install.zip
+03/06/2014 16:54:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Module\Telerik_07.02.00_Install.zip
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation JavaScript_Library - jQuery.zip
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\JavaScriptLibrary\jQuery.zip
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation JavaScript_Library - Knockout.zip
+03/06/2014 16:54:56 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\JavaScriptLibrary\Knockout.zip
+03/06/2014 16:54:57 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Provider - DNNMenuNavigationProvider_07.02.01_Install.zip
+03/06/2014 16:54:57 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Provider\DNNMenuNavigationProvider_07.02.01_Install.zip
+03/06/2014 16:54:57 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:57 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Provider - FiftyOneClientCapabilityProvider_07.02.01_Install.zip
+03/06/2014 16:54:57 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Provider\FiftyOneClientCapabilityProvider_07.02.01_Install.zip
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=defaultProvider
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation Provider - RadEditorProvider_07.02.01_Install.zip
+03/06/2014 16:54:58 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\Provider\RadEditorProvider_07.02.01_Install.zip
+03/06/2014 16:55:00 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:55:00 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+03/06/2014 16:55:00 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation JavaScript_Library - jQueryMigrate.zip
+03/06/2014 16:55:00 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\JavaScriptLibrary\jQueryMigrate.zip
+03/06/2014 16:55:01 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation JavaScript_Library - jQueryUI.zip
+03/06/2014 16:55:01 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\JavaScriptLibrary\jQueryUI.zip
+03/06/2014 16:55:01 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installation JavaScript_Library - KnockoutMapping.zip
+03/06/2014 16:55:01 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\home\site\wwwroot\Install\JavaScriptLibrary\KnockoutMapping.zip
+03/06/2014 16:55:01 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Initialisation des paramètres de l'hôte
+03/06/2014 16:55:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Création du site [DNN 721 AzureWebsite]
+03/06/2014 16:55:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start CreateUserInfo:host
+03/06/2014 16:55:56 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Créer le super utilisateur (hôte)
+03/06/2014 16:55:56 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Création du super utilisateur (hôte)host
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:File Management
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:File Management
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Manager
+03/06/2014 16:57:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//FileManager
+03/06/2014 16:57:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:119
+03/06/2014 16:57:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:119
+03/06/2014 16:57:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:120
+03/06/2014 16:57:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:120
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:Taxonomy
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Taxonomy
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:123
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:123
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Device Detection Management
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Device Detection Management
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Device Detection Management
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:124
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:124
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:HTML Editor Manager
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:HTML Editor Manager
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:125
+03/06/2014 16:57:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:125
